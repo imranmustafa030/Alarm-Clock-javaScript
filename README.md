@@ -23,10 +23,6 @@ This repository contains an Alarm Clock web application developed using JavaScri
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your needs.
-
 ## Credits
 
 Thank you for checking out this repository. The Alarm Clock was developed using JavaScript, HTML, and CSS, providing a customizable and user-friendly solution for managing alarms and waking up on time.
